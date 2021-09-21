@@ -1,0 +1,10 @@
+C:\Users\Johns\source\repos\ClickerRepo\ClickerGameUI\bin\Debug\ClickerGameUI.exe.config
+C:\Users\Johns\source\repos\ClickerRepo\ClickerGameUI\bin\Debug\ClickerGameUI.exe
+C:\Users\Johns\source\repos\ClickerRepo\ClickerGameUI\bin\Debug\ClickerGameUI.pdb
+C:\Users\Johns\source\repos\ClickerRepo\ClickerGameUI\obj\Debug\ClickerGameUI.csproj.AssemblyReference.cache
+C:\Users\Johns\source\repos\ClickerRepo\ClickerGameUI\obj\Debug\ClickerGameUI.csproj.CoreCompileInputs.cache
+C:\Users\Johns\source\repos\ClickerRepo\ClickerGameUI\obj\Debug\ClickerGameUI.exe
+C:\Users\Johns\source\repos\ClickerRepo\ClickerGameUI\obj\Debug\ClickerGameUI.pdb
+C:\Users\Johns\source\repos\ClickerRepo\ClickerGameUI\bin\Debug\ClickerRepo.dll
+C:\Users\Johns\source\repos\ClickerRepo\ClickerGameUI\bin\Debug\ClickerRepo.pdb
+C:\Users\Johns\source\repos\ClickerRepo\ClickerGameUI\obj\Debug\ClickerGameUI.csproj.CopyComplete

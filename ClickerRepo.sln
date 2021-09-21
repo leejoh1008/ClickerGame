@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickerRepo", "ClickerRepo\ClickerRepo.csproj", "{39FBBE7D-1075-426A-AB0A-B2615840BDA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickerGameUI", "ClickerGameUI\ClickerGameUI.csproj", "{66C4A0D5-FAAC-4912-BAA4-9BFFA2BD8878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39FBBE7D-1075-426A-AB0A-B2615840BDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FBBE7D-1075-426A-AB0A-B2615840BDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FBBE7D-1075-426A-AB0A-B2615840BDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FBBE7D-1075-426A-AB0A-B2615840BDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66C4A0D5-FAAC-4912-BAA4-9BFFA2BD8878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C4A0D5-FAAC-4912-BAA4-9BFFA2BD8878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C4A0D5-FAAC-4912-BAA4-9BFFA2BD8878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C4A0D5-FAAC-4912-BAA4-9BFFA2BD8878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCF878C7-CC06-4FE3-BA17-F3EF08F7FE4B}
+	EndGlobalSection
+EndGlobal

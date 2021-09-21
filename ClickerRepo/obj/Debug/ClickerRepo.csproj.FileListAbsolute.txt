@@ -1,0 +1,6 @@
+C:\Users\Johns\source\repos\ClickerRepo\ClickerRepo\bin\Debug\ClickerRepo.dll
+C:\Users\Johns\source\repos\ClickerRepo\ClickerRepo\bin\Debug\ClickerRepo.pdb
+C:\Users\Johns\source\repos\ClickerRepo\ClickerRepo\obj\Debug\ClickerRepo.csproj.AssemblyReference.cache
+C:\Users\Johns\source\repos\ClickerRepo\ClickerRepo\obj\Debug\ClickerRepo.csproj.CoreCompileInputs.cache
+C:\Users\Johns\source\repos\ClickerRepo\ClickerRepo\obj\Debug\ClickerRepo.dll
+C:\Users\Johns\source\repos\ClickerRepo\ClickerRepo\obj\Debug\ClickerRepo.pdb
